@@ -19,7 +19,7 @@ O projeto surge da aplicação prática dos conhecimentos adquiridos nos primeir
 
 ## Documentação Detalhada
 
-Para uma compreensão mais profunda do projeto, recomendamos a leitura de seu relatório de desenvolvimento no modelo de artigo. Esse artigo está disponível em [Overleaf][(https://www.overleaf.com/read/hhgyjhjrfhrv#544e93)].
+Para uma compreensão mais profunda do projeto, recomendamos a leitura de seu relatório de desenvolvimento no modelo de artigo. Esse artigo está disponível em [Overleaf][(https://www.overleaf.com/read/brxbcztjhgkx#9cf65d)].
 
 
 ## Contribuição
