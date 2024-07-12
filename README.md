@@ -15,6 +15,7 @@ O projeto surge da aplicação prática dos conhecimentos adquiridos nos primeir
 1. Clone este repositório para sua máquina local.
 2. Certifique-se de possuir o compilador GCC previamente instalado em sua máquina (Para funcionar a interface gráfica do NCurses, é necessário estar em ambiente Linux).
 3. Utilize o comando make para simplesmente executar o código. Caso queira realizar debugs, utilize make testes (é necessário possuir o debugger GDB instalado).
+   
 --------------------------------------Não funcionando em ambiente Windows--------------------------------------
 
 ## Documentação Detalhada
